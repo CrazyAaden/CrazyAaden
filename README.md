@@ -3,7 +3,7 @@ my name is aaden
 - i do stuff and things
 - self educated roblox dev
 - i work mostly with luau and small bits of c++, js and html
-- fun fact: IncognitoModeDev is gay
+
 
 <!--
 **CrazyAaden/CrazyAaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
