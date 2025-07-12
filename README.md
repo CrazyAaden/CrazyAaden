@@ -1,8 +1,8 @@
 ## hi
 my name is aaden 
 - i do stuff and things
-- self educated (amateur) roblox dev
-- i work mostly with luau and small bits of c++, js and html
+- self educated (amateur) dev
+- i work in python html css js luau etc
 
 
 <!--
